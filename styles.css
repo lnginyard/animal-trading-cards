@@ -1,0 +1,55 @@
+    h3 {
+    margin: 10px;
+    display: block;
+    border-style: ridge;
+    border-width: 4px;
+    border-color: gold;
+    font-size: 30px;
+    padding: 2px;
+    color: goldenrod;
+    text-align: center;
+    text-shadow: 0 0 3px black, 0 0 5px sienna;
+    img {
+        padding: 2px;
+        border: 10px ridge gold;
+        margin: 10px;
+        width: 300px;
+        ;
+    }
+    .card {
+        display: block;
+        border-style: ridge;
+        border-color: gold;
+        width: 300px;
+        border-width: 5px;
+        margin: 5px;
+        margin-left: 2px;
+        margin-right: 2px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        width: 350px;
+        padding: 4px;
+    }
+    p.card-description {
+        size: 300px;
+        padding: 5px;
+        font-style: italic;
+        margin: 5px;
+    }
+    div {
+        border-style: dotted;
+        border-width: 3px;
+        border-color: sienna;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    ul.card-list {
+        padding: 02px;
+        font-stretch: condensed;
+        word-spacing: 2px;
+    }
+    p.card-details {
+        padding: 5px;
+        border-width: thin;
+        margin: 5px;
+    }
